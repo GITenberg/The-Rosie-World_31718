@@ -1,0 +1,40 @@
+_repo: The-Rosie-World_31718
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barney, Maginel Wright
+    aliases:
+    - Wright, Margaret Ellen
+    - Enright, Maginel Wright
+    birthdate: 1877
+    deathdate: 1966
+    gutenberg_agent_id: '35429'
+    url: http://www.gutenberg.org/2009/agents/35429
+    wikipedia: http://en.wikipedia.org/wiki/Maginel_Wright_Enright
+covers:
+- cover_type: archival
+  image_path: 31718-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fillmore, Parker
+    alias: Fillmore, Parker H. (Parker Hoysted)
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '8828'
+    url: http://www.gutenberg.org/2009/agents/8828
+description: ''
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31718'
+  lccn: '14016918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Irish Americans -- Fiction'
+title: The Rosie World
+url: http://www.gutenberg.org/ebooks/31718
